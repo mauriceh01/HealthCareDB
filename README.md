@@ -21,6 +21,17 @@ This database supports detailed clinical, administrative, and operational workfl
 
 ---
 
+## Technologies Used
+
+- **Database Engine:** MySQL 8.x (compatible with MariaDB and other RDBMS)
+- **SQL Language:** ANSI SQL (DDL & DML)
+- **Backend Integration:** Designed to be compatible with Python (Flask, Django), Node.js, .NET, or Java backend systems.
+- **Analytics & BI Tools:** Optimized for Power BI, Tableau, or custom web-based dashboards
+- **Security Model:** Role-Based Access Control (RBAC), Audit Logging, and Tokenized Password Reset
+- **Data Types:** ENUMs, DATE/DATETIME, TEXT, DECIMAL for precision tracking
+- **Constraints:** Foreign Keys, Primary Keys, AUTO_INCREMENT for data integrity
+- **Data Compliance Ready:**
+---
 ## Database Schema Highlights
 
 - **Departments & Providers:** Departments are linked to Providers, with a designated Head of Department.
@@ -78,6 +89,16 @@ This database supports detailed clinical, administrative, and operational workfl
 | ZipCodeStats          | Demographic and health statistics by ZIP code              |
 
 ---
+
+## 📌 Author
+Created by: Maurice Hazan on June 29, 2025
+
+📧 [mauriceh01@hotmail.com](mailto:mauriceh01@hotmail.com)     
+
+🌉 [LinkedIn](https://linkedin.com/in/mohazan)     
+
+🔗 [GitHub](https://github.com/mauriceh01)       
+
 
 ## Installation
 
